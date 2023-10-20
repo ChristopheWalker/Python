@@ -1,6 +1,6 @@
-Python tutorial in ubuntu
+Python*tutorial*in ubuntu
 ==========
-####Installation and quick start
+*###Installation and quick start
 Win: http://continuum.io/downloads#py34
 ####How do I install additional packages into Anaconda?
 ```
@@ -37,3 +37,4 @@ https://github.com/HuskyHsu/Introducing-Python
 
 4.Sentiment analysis <https://github.com/jerrywu2013/Python/tree/master/2019/Sentiment%20analysis>
 
+ 
